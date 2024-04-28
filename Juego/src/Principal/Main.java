@@ -6,7 +6,7 @@ import Game.GameControl;
 
 /**
  * @author Enriquez_Jhon
- * titulo: Java Galaga impklementacion de Inversionde control
+ * titulo: Java Galaga impklementacion de Inversionde control deber 002
  */
 public class Main {
 
